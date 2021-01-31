@@ -29,10 +29,8 @@ The most challenging obstacle will be the environmental score for each ingredien
 It is necessary share this idea with some eco-friendly start-up and maybe involve also some food influencer to make this idea more popular.
 
 ## Acknowledgments
-https://www.giallozafferano.it/
-
-https://www.cucinabotanica.com/
-
-https://www.youtube.com/watch?v=8ZiD2W8vSXE
-
-https://undraw.co/
+* [Elements of AI](https://www.elementsofai.com/)
+* [Giallo Zafferano](https://www.giallozafferano.it/)
+* [Cucina Botanica](https://www.cucinabotanica.com/)
+* [ASAP Science](https://www.youtube.com/watch?v=8ZiD2W8vSXE)
+* [UNDRAW](https://undraw.co/)
