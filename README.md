@@ -14,7 +14,6 @@ It may happen that I can find the perfect recipe on the internet but one or more
 
 ## How is it used?
 This solution may help in so many different ways. A user can save money by using less expensive ingredients and by spending less time to retrive them. Moreover it may help to be more conscious about the environmental impact of our choices.
-![01](https://github.com/n1c090/Matching-flavours/blob/main/undraw_diet_ghvw.png)
 <img src="https://github.com/n1c090/Matching-flavours/blob/main/undraw_diet_ghvw.png" width="300">
 
 ## Data sources and AI methods
