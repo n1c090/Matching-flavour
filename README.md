@@ -22,7 +22,7 @@ In this way would be possible to find the most used flavor matches.
 As a second step it is necessary to find an environmental index impact for each ingredients to allow the user to prefer more environmental friendly ingredients.
 
 ## Challenges
-The most challenging obstacle will be the environmental score for each ingredients since it is hard to get the index for water usage, energy etc. necessary to grew/breed the food, but I think that can be achieved by involving more entities to the project.
+The most challenging obstacle will be the environmental score for each ingredients since it is hard to get the index for water usage, energy consumption etc. necessary to grew/breed the food, but I think that can be achieved by involving more entities to the project.
 
 ## What next?
 It is necessary share this idea with some eco-friendly start-up and maybe involve also some food influencer to make this idea more popular.
